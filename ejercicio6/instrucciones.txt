@@ -1,0 +1,1 @@
+Ejecutar por consola: python ejercicio6.py

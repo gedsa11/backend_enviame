@@ -1,0 +1,6 @@
+django==3.1.2
+psycopg2==2.8.3
+gunicorn==19.9.0
+pillow
+Faker
+djangorestframework
